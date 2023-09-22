@@ -20,11 +20,4 @@ Venmo falls under the payments and remittances domain. Some successful trends wi
 The efficiency and quickness of companies in the payments domain has allowed businesses to thrive. Venmo's best feature that has allowed business success has been the ability to link business accounts to the app as well. This then allows for a greater influx of business since greater amount of accessibility to a greater demographic. Some metrics that could be used to measure performance in this domain would be total users and total revenue. Venmo has 77.7 million users and $935 million in revenue. Compared to other companies in this domain, venmo is performing exceptionally well and maintains its position of being one of the leading apps. 
 
 ## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+I would say that venmo could revist the idea of its fee to immediately withdraw money. By removing this, I think it will help close the gap in competition with Zelle, one of its main competitors. This would not require any new innovative technology which will allow the company to make the change quickly.
